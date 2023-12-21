@@ -6,7 +6,9 @@ This account stores files of various software products written in various
 programming languages.
 
 A more detailed description of this _GitHub_ account will be placed here when 
-the time comes. For now, only the most important facts are stated here. 
+the time comes. 
+
+For now, only the most important facts are stated here. 
 
 ## AUX
 
