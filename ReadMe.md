@@ -23,4 +23,4 @@ If you have been using some of the old repositories of this _GitHub_ account
 earlier in the past time and feel that you can not find the old repository any 
 more, we suggest that you look into the 
 [Auxie](https://github.com/vault-thirteen/auxie) repository mentioned above. 
-Source files of numerous old repositories have been merged into that one.
+Source files of numerous old repositories have been merged into that repository.
