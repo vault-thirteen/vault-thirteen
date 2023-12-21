@@ -1,4 +1,4 @@
-Hello there and welcome to the **Vault Thirteen** _GitHub_ repository.
+Hello there and welcome to the **Vault Thirteen** _GitHub_ account.
 
 ## What is this ?
 
