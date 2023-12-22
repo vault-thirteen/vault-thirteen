@@ -16,7 +16,6 @@ https://github.com/vault-thirteen/MakeVideoSnapshot.git
 https://github.com/vault-thirteen/RingCaptcha.git
 https://github.com/vault-thirteen/SBM.git
 https://github.com/vault-thirteen/SDLW.git
-https://github.com/vault-thirteen/SFHS.git
 https://github.com/vault-thirteen/SFRODB.git
 https://github.com/vault-thirteen/SimpleBB.git
 https://github.com/vault-thirteen/Simple-File-Server.git
