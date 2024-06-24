@@ -1,7 +1,7 @@
 :: Repository Saver Script
 
 @ECHO OFF
-SET ScriptVersion=0.7.0
+SET ScriptVersion=0.7.1
 ECHO Repository Saver Script, ver. %ScriptVersion%.
 
 SET arg_1=%1
@@ -18,6 +18,12 @@ SET git=git
 SET zipper=7
 SET zipper=%zipper%z
 ECHO %zipper%
+
+:: Unfortunately, 7-Zip can not show its version. What a lame piece of shit.
+:: TODO: Change to WinRAR.
+%zipper%
+ECHO:
+ECHO:
 
 MKDIR %repos_folder%
 COPY %repo_list% %repos_folder%
