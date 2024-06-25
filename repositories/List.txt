@@ -1,6 +1,7 @@
 https://github.com/vault-thirteen/argon2.git
 https://github.com/vault-thirteen/auxie.git
 https://github.com/vault-thirteen/bencode.git
+https://github.com/vault-thirteen/BitTorrentFile.git
 https://github.com/vault-thirteen/BPPJS.git
 https://github.com/vault-thirteen/BytePackedPassword.git
 https://github.com/vault-thirteen/Cache.git
