@@ -1,7 +1,7 @@
 :: Repository Saver Script
 
 @ECHO OFF
-SET ScriptVersion=0.7.1
+SET ScriptVersion=0.8.0
 ECHO Repository Saver Script, ver. %ScriptVersion%.
 
 SET arg_1=%1
@@ -68,3 +68,10 @@ IF /I "%arg_1%"=="keep" (
 ) ELSE (
 	RMDIR /s /q %repos_folder%
 )
+
+:: Move files to a folder.
+SET new_folder=%repos_folder%_%time_text%
+MKDIR "%new_folder%"
+MOVE "%archive_name%" "%new_folder%"
+COPY "Dependencies.ods" "%new_folder%\"
+COPY "List.txt" "%new_folder%\"
