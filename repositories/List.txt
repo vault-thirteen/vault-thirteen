@@ -18,12 +18,9 @@ https://github.com/vault-thirteen/libpng.git
 https://github.com/vault-thirteen/MakeVideoSnapshot.git
 https://github.com/vault-thirteen/RingCaptcha.git
 https://github.com/vault-thirteen/SBM.git
-https://github.com/vault-thirteen/SDLW.git
 https://github.com/vault-thirteen/SFRODB.git
-https://github.com/vault-thirteen/SimpleBB.git
 https://github.com/vault-thirteen/Simple-File-Server.git
 https://github.com/vault-thirteen/SPA.git
-https://github.com/vault-thirteen/SPMDB.git
 https://github.com/vault-thirteen/TIFFer
 https://github.com/vault-thirteen/TR1
 https://github.com/vault-thirteen/vault-thirteen.git
