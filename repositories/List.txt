@@ -8,6 +8,7 @@ https://github.com/vault-thirteen/Cache.git
 https://github.com/vault-thirteen/Fast-CGI.git
 https://github.com/vault-thirteen/Forum-Crawler.git
 https://github.com/vault-thirteen/Forward-Proxy.git
+https://github.com/vault-thirteen/git-helper.git
 https://github.com/vault-thirteen/Hasher.git
 https://github.com/vault-thirteen/HttpStreamDumper.git
 https://github.com/vault-thirteen/IPARC.git
