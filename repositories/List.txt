@@ -23,6 +23,7 @@ https://github.com/vault-thirteen/RingCaptcha.git
 https://github.com/vault-thirteen/SBM.git
 https://github.com/vault-thirteen/SFRODB.git
 https://github.com/vault-thirteen/Simple-File-Server.git
+https://github.com/vault-thirteen/Simple-MIDI-Player.git
 https://github.com/vault-thirteen/SPA.git
 https://github.com/vault-thirteen/TIFFer
 https://github.com/vault-thirteen/TR1
