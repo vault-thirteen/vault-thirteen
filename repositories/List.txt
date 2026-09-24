@@ -4,7 +4,6 @@ https://github.com/vault-thirteen/bencode.git
 https://github.com/vault-thirteen/BitTorrentFile.git
 https://github.com/vault-thirteen/BPPJS.git
 https://github.com/vault-thirteen/BytePackedPassword.git
-https://github.com/vault-thirteen/Cache.git
 https://github.com/vault-thirteen/Fast-CGI.git
 https://github.com/vault-thirteen/Forum-Crawler.git
 https://github.com/vault-thirteen/Forward-Proxy.git
@@ -24,7 +23,6 @@ https://github.com/vault-thirteen/SBM.git
 https://github.com/vault-thirteen/SFRODB.git
 https://github.com/vault-thirteen/Simpel-Chat-Front-End.git
 https://github.com/vault-thirteen/Simpel-Chat-Server.git
-https://github.com/vault-thirteen/Simple-File-Server.git
 https://github.com/vault-thirteen/Simple-MIDI-Player.git
 https://github.com/vault-thirteen/SPA.git
 https://github.com/vault-thirteen/TIFFer
