@@ -5,7 +5,6 @@ https://github.com/vault-thirteen/BitTorrentFile.git
 https://github.com/vault-thirteen/BPPJS.git
 https://github.com/vault-thirteen/BytePackedPassword.git
 https://github.com/vault-thirteen/Fast-CGI.git
-https://github.com/vault-thirteen/File-Uploader.git
 https://github.com/vault-thirteen/Forum-Crawler.git
 https://github.com/vault-thirteen/Forward-Proxy.git
 https://github.com/vault-thirteen/git-helper.git
