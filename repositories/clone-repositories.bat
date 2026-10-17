@@ -32,6 +32,7 @@ CD %repos_folder%
 FOR /F "usebackq tokens=*" %%A IN ("%repo_list%") DO (
 	ECHO %%A
 	%git% clone %%A
+	ECHO:
 )
 CD ..
 
