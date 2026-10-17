@@ -31,7 +31,13 @@ COPY %repo_list% %repos_folder%
 CD %repos_folder%
 FOR /F "usebackq tokens=*" %%A IN ("%repo_list%") DO (
 	ECHO %%A
+	
 	%git% clone %%A
+	IF %ERRORLEVEL% NEQ 0 (
+		ECHO Cloning failed with error code %ERRORLEVEL%.
+		EXIT /b %ERRORLEVEL%
+	)
+	
 	ECHO:
 )
 CD ..
