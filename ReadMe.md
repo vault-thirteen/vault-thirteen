@@ -24,3 +24,7 @@ earlier in the past time and feel that you can not find the old repository any
 more, we suggest that you look into the 
 [Auxie](https://github.com/vault-thirteen/auxie) repository mentioned above. 
 Source files of numerous old repositories have been merged into that repository.
+
+## Post Scriptum
+
+> "When the power of love beats the love of power, the world knows peace." – Jimi Hendrix
