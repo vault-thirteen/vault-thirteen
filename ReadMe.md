@@ -3,11 +3,9 @@ Hello there and welcome to the **Vault Thirteen** _GitHub_ account.
 ## What is this ?
 
 This account stores files of various software products written in various 
-programming languages.
-
+programming languages.  
 A more detailed description of this _GitHub_ account will be placed here when 
-the time comes. 
-
+the time comes.  
 For now, only the most important facts are stated here. 
 
 ## AUX
